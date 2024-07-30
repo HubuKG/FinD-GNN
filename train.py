@@ -5,7 +5,7 @@ from data_loader import DataLoader
 from base_model import BaseModel
 from utils import select_gpu
 
-parser = argparse.ArgumentParser(description="Parser for AdaProp")
+parser = argparse.ArgumentParser(description="Parser for FinD-GNN")
 parser.add_argument('--data_path', type=str, default='./data/fb237_v1')
 parser.add_argument('--seed', type=str, default=1234)
 args = parser.parse_args()
