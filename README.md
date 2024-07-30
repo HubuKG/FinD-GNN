@@ -7,7 +7,7 @@ In this work, we introduce FinD-GNN, a novel Graph Neural Network (GNN) tailored
 
 ## Overview
 
-<img src="./FinD-GNN.png" style="zoom: 100%;" />
+<img src="./FinD-GNN.jpg" style="zoom: 100%;" />
 
 ## Dependencies
 
